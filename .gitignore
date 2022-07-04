@@ -1,0 +1,3 @@
+# Don't load following:
+.DS_Store
+.idea
